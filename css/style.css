@@ -106,6 +106,8 @@ a {
 
 .grey-square {
     display: flex;
+    justify-content: center;
+    align-items: center;
     width: 50px;
     height: 50px;
     background: #F2F2F2;
@@ -113,10 +115,8 @@ a {
     border-radius: 15px 0 0 15px;
 }
 
-.fa-solid fa-location-dot {
-    display: flex;
-    align-items: center;
-    justify-content: center;
+.grey-square i {
+    align-self: center;
 }
 
 input {
@@ -124,9 +124,14 @@ input {
     text-align: center;
     font-size: 18px;
     height: 50px;
+    width: 201px;
 }
 
 input::placeholder {
+    color: #000000;
+}
+
+input[type="search"] {
     color: #000000;
     font-weight: bold;
 }
@@ -207,9 +212,6 @@ input::placeholder {
 .populaires-cards .card-rating {
     margin-bottom: 5px;
 }
-
-
-
 
 /* Le code ci-dessous correspond à la version responsive uniquement */
 
