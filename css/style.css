@@ -258,7 +258,6 @@ article:hover {
 }
 
 .hebergements-cards img {
-    width: 100%;
     height: 124px;
     border-radius: 20px 20px 0 0;
 }
@@ -328,6 +327,25 @@ article:hover {
 
 .populaires-cards .card-rating {
     margin-bottom: 5px;
+}
+
+/****** Activities ***********/
+
+.activities {
+    padding: 30px; 
+}
+
+.activities-cards .card {
+    display: flex;
+    flex-direction: column;
+    margin-top: 33px;
+    width: 300px;
+    border-radius: 20px;
+}
+
+.activities-cards img {
+    height: 124px;
+    border-radius: 20px 20px 0 0;
 }
 
 /* Le code ci-dessous correspond à la version responsive uniquement */
