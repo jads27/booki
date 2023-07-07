@@ -301,6 +301,9 @@ a {
 
 .show-more {
     padding-top: 30px;
+}
+
+.show-more .show-txt {
     cursor: pointer;
 }
 
