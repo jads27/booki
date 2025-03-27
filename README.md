@@ -1,11 +1,11 @@
 # Booki
 
-Le projet Booki vise à développer une interface conviviale permettant aux utilisateurs de rechercher et de réserver facilement des hébergements et des activités dans leur ville de prédilection.
+The Booki project aims to develop a user-friendly interface allowing users to easily search for and book accommodations and activities in their favorite city.
 
 ## Description
 
 ![Booki](images/logo/Booki.png)
 
-![Booki](images/BookiPage.png)
+![Booki](images/booki-page.gif)
 
-Projet réalisé dans le cadre de ma formation OpenClassrooms, j'ai été chargé d'intégrer l'interface du site en utilisant uniquement HTML et CSS.
+This project was carried out as part of my OpenClassrooms training, where I was responsible for integrating the website interface using only HTML and CSS.
